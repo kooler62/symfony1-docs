@@ -1,0 +1,9 @@
+Chapter 1 - Form Creation
+=========================
+
+A form is made of fields like hidden inputs, text inputs, select boxes, and checkboxes. This chapter introduces you to creating forms and managing form fields using the symfony forms framework.
+
+Symfony 1.1 is required to follow the chapters of this book. You will also need to create a project and a `frontend` application to keep going. Please refer to the introduction for more information on symfony project creation.
+
+Before we start
+---------------
